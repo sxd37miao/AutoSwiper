@@ -8,7 +8,7 @@ on:
       start_date:
         description: '开始日期 (YYYY-MM-DD)'
         required: true
-        default: '2025-04-23'
+        default: '2025-04-13'
       end_date:
         description: '结束日期 (YYYY-MM-DD) - 留空则默认为今天'
         required: false
